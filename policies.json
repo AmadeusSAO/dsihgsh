@@ -22,7 +22,7 @@
          "level": "mandatory",
          "scope": "user",
          "source": "cloud",
-         "value": "crsd.org,student.crsd.org,mbit.org,students.mcsssd.org,gserviceaccount.com"
+         "value": ""
       },
       "ArcAppInstallEventLoggingEnabled": {
          "level": "mandatory",
@@ -617,7 +617,7 @@
       "user": {
          "clientId": "3404fe94-d5a5-4a5e-bdf2-4d831e666057",
          "domain": "student.crsd.org",
-         "enterpriseDomainManager": "crsd.org",
+         "enterpriseDomainManager": "",
          "error": false,
          "gaiaId": "100919868606722784546",
          "isAffiliated": false,
@@ -625,7 +625,7 @@
          "status": "Policy cache OK",
          "timeSinceLastFetchAttempt": "16 mins ago",
          "timeSinceLastRefresh": "16 mins ago",
-         "username": "1019623@student.crsd.org"
+         "username": ""
       }
    }
 }
